@@ -35,7 +35,7 @@ public class Activite2Application implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
         
-        Random ran = new Random();
+        Random ran = new Random(); 
         int x;
         for (int i = 0; i<100; i++) {
             x = ran.nextInt(90) + 5;
