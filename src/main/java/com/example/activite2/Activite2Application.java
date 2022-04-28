@@ -29,7 +29,7 @@ public class Activite2Application implements CommandLineRunner {
     public static void main(String[] args) {
 
         SpringApplication.run(Activite2Application.class, args);
-
+ 
     }
 
     @Override
